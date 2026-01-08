@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "name": "pred",
   "wasm": "pred.wasm.gz",
   "released_at": "2025-12-05T12:00:00Z",
